@@ -1,0 +1,66 @@
+
+.pantalla{
+    background-color:#EBFFEE;
+    color: #0A3871;
+    width:1440px; 
+    height:1024px;
+   
+}
+.container{
+    background-color:hsl(0, 19%, 93%);
+    width:400px;
+    height:944px;
+    margin-left: 1000px;  
+    margin-top: -870px;   
+
+}
+.texto{
+    width:540px; 
+    height:397px;
+    margin-left: 200px;  
+    margin-top: 168px;
+    background-color:#EBFFEE;
+    color: #0A3871;
+
+}
+.logo{
+    height: 48px;
+    width: 120px;
+    margin-left: 40px;  
+    margin-top: 40px;
+        
+}
+.muneco{
+    height: 304px;
+    width: 336px;
+    margin-left: 32px;  
+    margin-top: 250px;
+        
+}
+.leyenda{
+    height: 122px;
+    width: 336px;
+    margin-left: 32px;
+    margin-top: 40px;
+   
+}
+.advertencia{
+    height: 18px;
+    width: 229px;
+    margin-left: 200px;
+    margin-top:151px;
+
+}
+.encriptar{
+    height: 40px;
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.desencriptar{
+    height: 40px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 28px;
+    
+}
