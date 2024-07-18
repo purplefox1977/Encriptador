@@ -34,12 +34,24 @@ body{
 }
 .texto{
     background-color:#EBFFEE;
-    width: 570px;
-    height: 48px;
+    width: 680px;
+    height: 288px;
     margin-left: 240px;
-    margin-top:48px; /*128*/
+    margin-top:128px; /*128*/
     font-family: "Inter", sans-serif;
     font-size: 32px;
+    font-weight: 350;
+    color:darkblue 300;
+    resize: none;/* tomado de textarea*/
+}
+.texto2{
+    background-color:hsla(0, 44%, 90%, 0.89);
+    width: 336px;
+    height: 781px;
+    margin-left: 1032px;
+    margin-top:-1748px; /*128*/
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
     font-weight: 350;
     color:darkblue 300;
     resize: none;/* tomado de textarea*/
@@ -50,7 +62,7 @@ body{
     height: 18px;
     margin-left: 240px;
     align-items: stretch;
-    margin-top: 240px;
+    margin-top: 300px;
 }
 
 .advertenciaImg{
@@ -69,10 +81,11 @@ body{
 .botones{
     display: flex;
     justify-content: space-between;
-    width: 680px;
+    width: 1130px;
     height: 67px;
     margin-left: 240px;
     margin-top: 16px;
+    
 }
 .botonTex{   
     background-color: darkblue;
@@ -85,6 +98,19 @@ body{
     width: 328px;   
     padding: 23.5px 0;
 }
+.botonCopiar{
+    
+    background-color: darkblue;
+    color: #ffff;
+    text-align: center; 
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 24px;
+    width: 336px;
+    padding: 23.5px 0;
+
+}
 .rectangulo{
     background-color:hsla(0, 44%, 90%, 0.89);
     width:400px;
@@ -93,31 +119,5 @@ body{
     margin-top: -930px;
     border-radius: 32px;     
 }
-.recTex1{
-    color: #FF9500;
-    text-align: center; 
-    font-family: "Inter", sans-serif;
-    font-size: 24px;
-    font-weight: 350;
-    width: 336px;   
-    margin-left: 1032px;  
-    margin-top: -300px;
-    gap: 16px;   
-}
-.recTex2{
-    color: hsl(308, 93%, 53%);
-    text-align: center; 
-    font-family: "Inter", sans-serif;
-    font-size: 16px;
-    font-weight: 350;
-    width: 336px; 
-    margin-left: 1032px;             
-}
 
-.muneco{
-    height: 304px;
-    width: 336px;
-    margin-left: 1032px;  
-    margin-top: 100px;
-       
-}
+
