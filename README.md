@@ -1,4 +1,7 @@
-Descripción
+<h1 align="center" >Descripción</h1>
+
+![escritorio1](https://github.com/user-attachments/assets/14ea614e-fc45-44b4-9e74-8e6c6cb30e94)
+
 
 Se desea trabajar en una aplicación que encripta textos, así podrás intercambiar mensajes secretos con otras personas que conozcan el secreto de la encriptación utilizada.
 
